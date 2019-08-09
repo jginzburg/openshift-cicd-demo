@@ -12,7 +12,7 @@ pipeline {
                 library(identifier: "openshift-pipeline-library@master", 
                         retriever: modernSCM([$class: "GitSCMSource",
                                               credentialsId: "dev-repository-credentials",
-                                              remote: "ssh://git@github.com/leandroberetta/openshift-cicd-demo.git"]))                
+                                              remote: "https://github.com/jginzburg/openshift-cicd-demo.git"]))                
                 
                 initParameters() 
                 
