@@ -1,2 +1,2 @@
-HELLO_STRING=Testing the Hello World from OpenShift!
+HELLO_STRING=Bienvenidos al IBM Code Day Montevideo!
 ENVIRONMENT=test
