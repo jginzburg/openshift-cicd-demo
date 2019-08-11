@@ -8,7 +8,7 @@
     <artifactId>hello-service</artifactId>
     <name>Hello Service</name>
     <packaging>war</packaging>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
 
     <properties>
         <version.thorntail>2.4.0.Final</version.thorntail>
